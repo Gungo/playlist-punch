@@ -1,0 +1,3 @@
+[submodule "playlist-punch"]
+	path = playlist-punch
+	url = https://github.com/Gungo/playlist-punch.git

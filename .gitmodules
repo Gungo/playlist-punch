@@ -1,3 +1,7 @@
+[submodule "playlist-punch"]
+	path = playlist-punch
+	url = https://github.com/Gungo/playlist-punch.git
+
 [submodule "server"]
-	path = playlist-punch/server
+	path = server
 	url = https://github.com/mpj/oauth-bridge-template.git

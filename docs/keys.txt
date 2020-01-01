@@ -1,4 +1,0 @@
-Client ID 2915d2ca62ed4f298521dd5c67f6a62c
-Client Secret 2a058effded040eca7daaa56429a36c1
-
-redirect uri: http://localhost:8888/callback

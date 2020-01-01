@@ -1,11 +1,7 @@
-.App {
-  text-align: center;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
 html, body {
   background-color: #gray;
+}
+
+body {
+  padding: 4%;
 }

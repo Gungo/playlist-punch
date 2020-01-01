@@ -172,7 +172,7 @@ class App extends Component {
           : <button onClick={() => {
               window.location = window.location.href.includes('localhost')
                 ? 'http://localhost:8888/login'
-                : 'https://playlist-punch.herokuapp.com/login' } // ADD LATER
+                : 'https://playlist-punch-backend.herokuapp.com/login' } // ADD LATER
             } style={{padding: '20px', 'font-size': '50px', 'marginTop': '20px'}}>Sign in with Spotify</button>
         }
       </div>
